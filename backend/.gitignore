@@ -1,0 +1,24 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Go workspace file
+go.work
+
+# Dependency directories
+vendor/
+
+# Debug files
+*.stackdump
+*.tmp
+
+# IDEs and other ignored files
+.idea/
+.vscode/
+.DS_Store
+*.swp
